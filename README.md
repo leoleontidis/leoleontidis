@@ -1,5 +1,5 @@
-<h1 align="center">Hi , I am Leonidas</h1>
-<h3 align="center">I'm a <b>Senior Quantitative Analyst</b> at a leading <b>Commodity Trading Firm in the Oil & Gas sector</b>. My work bridges the gap between quantitative research, data-driven decision making, and systematic trading strategies. With a strong background in energy markets, financial engineering, and algorithmic trading, I focus on developing robust models and scalable trading systems.</h3>
+<h1 align="center">Welcome,</h1>
+<body align="center">I'm a <b>Senior Quantitative Analyst</b> at a leading <b>Commodity Trading Firm in the Oil & Gas sector</b>. My work bridges the gap between quantitative research, data-driven decision making, and systematic trading strategies. With a strong background in energy markets, financial engineering, and algorithmic trading, I focus on developing robust models and scalable trading systems. <br><br></body>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoleontidis&label=Profile%20views&color=210eb4&style=flat" alt="leoleontidis" /> </p> -->
 
